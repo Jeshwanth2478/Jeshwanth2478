@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 </p>
 <h1 align="center">Hi 👋, I'm SV Jeshwanth</h1>
 <h3 align="center">🚀 AI & ML Student | Data Analytics Enthusiast | Google Student Ambassador</h3>
