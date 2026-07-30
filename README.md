@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+</p>
 <h1 align="center">Hi 👋, I'm SV Jeshwanth</h1>
 <h3 align="center">🚀 AI & ML Student | Data Analytics Enthusiast | Google Student Ambassador</h3>
 
@@ -74,10 +77,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jeshwanth2478&theme=tokyonight&margin-w=15"/>
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins"/>
+
 </p>
 
 ---
@@ -92,9 +97,21 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sri-vadlakonda-jeshwanth-2478js/)
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+<a href="https://www.linkedin.com/in/sri-vadlakonda-jeshwanth-2478js/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Jeshwanth2478" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:mail2svjeshwanth@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
