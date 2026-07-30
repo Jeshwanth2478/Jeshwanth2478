@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 </p>
 <h1 align="center">Hi 👋, I'm SV Jeshwanth</h1>
-<h3 align="center">🚀 AI & ML Student | Data Analytics Enthusiast | Google Student Ambassador</h3>
+<h3 align="center">🚀 AI & ML Student | Data Analytics Enthusiast | Google Student Ambassador | Senior Student Placement Coordinator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+ML+Enthusiast;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
@@ -15,6 +15,8 @@
 🎓 B.Tech CSE (AI & ML) Student
 
 🌟 Google Student Ambassador
+
+🤝 Senior Student Placement Coordinator at ACE Engineering College
 
 📊 Passionate about Data Analytics, AI & Machine Learning
 
